@@ -1,0 +1,6 @@
+{
+  "name": "DineJoy",
+  "description": "Smart fine-dine restaurant POS, live orders, Zomato/Swiggy hub, inventory alerts, staff attendance & payroll, party bookings, daily P&L, and AI assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
